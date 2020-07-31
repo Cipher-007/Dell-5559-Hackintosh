@@ -7,6 +7,6 @@ Amd Radeon R5 M335 isn't supported
 
 Usb Tethering Works
 
-#Offical Opencore Website
+# Offical Opencore Website
 
 https://dortania.github.io/OpenCore-Install-Guide/
