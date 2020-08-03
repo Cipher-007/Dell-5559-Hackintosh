@@ -1,6 +1,4 @@
 # Hackintosh Opencore
-- Most of the kexts and Opencore files used are debug files (Can be replaced With Released) (Stil Works)
-
 ## Computer Configuration
 
 | Specifications | Details |
