@@ -1,7 +1,3 @@
-# Hackintosh Opencore
-
-=======
-
 # Hackintosh Opencore 0.6
 
 ## Computer Configuration
