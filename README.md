@@ -24,7 +24,7 @@
 ## ProperTree
 
 - Customize config.plist
-- Link: https://github.com/corpnewt/ProperTree
+- Link: <https://github.com/corpnewt/ProperTree>
 
 ## GenSMBIOS
 
