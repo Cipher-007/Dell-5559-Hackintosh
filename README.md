@@ -14,7 +14,7 @@
 
 ## Offical Opencore Website
 
-- <https://dortania.github.io/OpenCore-Install-Guide/>
+- <https://dortania.github.io/OpenCore-Install-Guide>
 
 ## GibmacOS
 
@@ -29,7 +29,7 @@
 ## GenSMBIOS
 
 - For Mac serial no
-- Link: <https://github.com/corpnewt/ProperTree>
+- Link: <hhttps://github.com/corpnewt/gibMacOS>
 
 ## Working
 
