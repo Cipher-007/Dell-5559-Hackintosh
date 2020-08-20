@@ -48,7 +48,7 @@
 - Airdrop
 
 ## Dos and Don'ts
-- Don't use the EFI for Big Sur
+- Don't use this EFI for Big Sur
 
 
 <!-- Thanks to : [tamht298](https://github.com/tamht298)
