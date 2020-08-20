@@ -29,7 +29,7 @@
 ## GenSMBIOS
 
 - For Mac serial no
-- Link: <hhttps://github.com/corpnewt/gibMacOS>
+- Link: <https://github.com/corpnewt/gibMacOS>
 
 ## Working
 
@@ -38,9 +38,18 @@
 - Keyboard Backlight Control
 - Usb Tethering Works
 - Ethernet
+- WIFI (Used as Ethernet) ( Install HeliPort and add as login item and hide it )
+- Bluetooth
+- Brightness Control ( From Preferences Use [Brightness Slider](https://apps.apple.com/us/app/brightness-slider/id456624497?mt=12) And map F11 and F12 )
 
 ## Not Working
 
 - Amd Radeon R5 M335
-- Intel Dual Band Wireless-AC 3160 (For Now)
-- Screen Backlight Contol (Fn + F11/F12) (For Now)
+- Airdrop
+
+## Dos and Don'ts
+- Don't use the EFI for Big Sur
+
+
+<!-- Thanks to : [tamht298](https://github.com/tamht298)
+Original Repo : https://github.com/tamht298/Hackintosh-OpenCore-Catalina-Dell-Inspiron-5559 -->
